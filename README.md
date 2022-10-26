@@ -1,4 +1,4 @@
-# Hyperblog:tw-1f4ad:
+# Hyperblog
 UN BLOG DEL CURSO [PLATZI](http://https://platzi.com/home "PLATZI")
 
 >Aprendimos a usar Git y [GitHub](http://https://github.com/ViqiS "GitHub")
